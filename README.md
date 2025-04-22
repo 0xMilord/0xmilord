@@ -103,11 +103,7 @@
 
 
 ---
-title: "Projects by Ayush (aka 0xmilord)"
-description: "A multi-domain product builder. Passionate about Web3, architecture, AI, and automation. This is my digital shelf of production-grade projects."
----
-
-import { FaCube, FaDatabase, FaCodeBranch, FaCogs, FaPalette, FaUsers, FaTools, FaBolt, FaChartLine, FaMapMarkedAlt, FaLayerGroup } from 'react-icons/fa';
+#Projects
 
 
 ## 🧠 AI / Automation / Agents
