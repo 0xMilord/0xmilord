@@ -255,7 +255,6 @@ X / Twitter: @0xmilord
 ## 🤪 Fun Fact
 
 I wanted to be an architect. Ended up building the future of the web on nights and weekends. 🏗️🧑‍💻  
-Still broke, still building, still dreaming.
 
 ---
 
