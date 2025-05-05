@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm `0xmilord`
 
-> 🧠 *"I build fast. I build real. I build for crypto."*
+> 🧠 *"I build fast. I build real. I build for web3."*
 
 
 
@@ -164,20 +164,20 @@
 - **Tech Stack**: Solana, Ceramic, Wallet Adapter, Supabase
 - **Use Case**: Hire and get hired with on-chain credentials
 
-### 🏦 `zeta citafel`
+### 🏦 `zeta citadel`
 *Retail access to automated hedge fund + SIPs.*
 - **Type**: DeFi Protocol
 - **Tech Stack**: Solana, Pyth Oracle, Serum
 - **Use Case**: Automates treasury rebalancing, SIP creation on-chain
 
-### 🔮 `sollymarkets`
+### 🔮 `solymarkets`
 *On-chain prediction markets on Solana.*
 - **Type**: Dapp
 - **Tech Stack**: Solana, Switchboard, Anchor
 - **Use Case**: Make binary and probabilistic bets via smart contracts
 
 ### 🧩 `dappquired`
-*Web3 version of Acquired.fm + marketplace to acquire dapps.*
+*Web3 version of Acquired.com + marketplace to acquire dapps.*
 - **Type**: Media + Marketplace
 - **Tech Stack**: Supabase, EVM, Token Gating, Blockchain Analytics
 - **Use Case**: Buy/sell dapps with verified on-chain metrics + founder storytelling
@@ -245,7 +245,7 @@ X / Twitter: @0xmilord
 
 ## 🗂 My Links
 
-- 🌐 [All projects](https://0xmilord.xyz)  
+- 🌐 [All projects](https://0xmilord.site)  
 - ✍️ [Blog (soon)](https://paragraph.xyz/@milord)  
 - 📝 [Resume](#) available on request  
 - 🔐 [GitHub](https://github.com/0xmilord)
