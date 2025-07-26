@@ -6,7 +6,9 @@
 
 > 🧠 *"I build fast. I build real. I build for web3."*
 
-
+> 👋 Previously contributed to Tornado Cash and other privacy-preserving protocols.  
+> Unfortunately, my original GitHub (with 3+ years of OSS history) was restricted during the 2022–2023 repo bans.  
+> I'm rebuilding in public — follow along here. ✊
 
 ## 🧰 Tech Stack
 ---
