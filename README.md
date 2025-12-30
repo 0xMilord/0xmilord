@@ -6,7 +6,6 @@
 
 
 ## 🧰 Tech Stack
----
 
 ## 💻 Frontend
 
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/MDX-000?logo=mdx&logoColor=white" />
 </p>
 
----
+
 
 ## 🧪 Backend / APIs
 
@@ -33,7 +32,7 @@
   <img src="https://img.shields.io/badge/REST_API-000000?logo=json&logoColor=white" />
 </p>
 
----
+
 
 ## ☁️ BaaS / Cloud Platforms
 
@@ -46,7 +45,6 @@
   <img src="https://img.shields.io/badge/Sanity-000?logo=sanity&logoColor=FF4747" />
 </p>
 
----
 
 ## 🧠 AI / LLM / Agents
 
@@ -58,7 +56,7 @@
   <img src="https://img.shields.io/badge/Replicate-FF5B5B?logo=data&logoColor=white" />
 </p>
 
----
+
 
 ## 🧑‍🎨 UI/UX + Design Tools
 
@@ -70,7 +68,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
 </p>
 
----
+
 
 ## 🎮 3D / Game Engines / Creative Tools
 
@@ -82,7 +80,7 @@
   <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white" />
 </p>
 
----
+
 
 ## 🔧 Productivity & Dev Tools
 
@@ -105,7 +103,6 @@
 - Crypto-native **public goods**
 - Onchain UIs that don’t suck
 
----
 
 ## 🤝 Open to Collaborations On
 
@@ -113,7 +110,6 @@
 - DeFi utilities or creative use-cases for onchain data  
 - Launching MVPs in 72hrs or less 🚀
 
----
 
 ## 📚 Learning / Leveling Up
 
@@ -121,15 +117,7 @@
 - `🔐 zkSnarks / zkML for verifiable compute`
 - `🧱 Decentralized infra scaling strategies`
 
----
 
-## 💬 Ask Me About
-
-- Building 10+ production dapps with no CS degree  
-- Bot-powered growth loops (CEX, Telegram, Twitter)  
-- Escaping the matrix with design + dev + AI
-
----
 
 ## 📫 Contact
 
