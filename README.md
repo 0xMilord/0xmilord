@@ -4,11 +4,6 @@
 
 # Hi 👋, I'm `0xmilord`
 
-> 🧠 *"I build fast. I build real. I build for web3."*
-
-> 👋 Previously contributed to Tornado Cash and other privacy-preserving protocols.  
-> Unfortunately, my original GitHub (with 3+ years of OSS history) was restricted during the 2022–2023 repo bans.  
-> I'm rebuilding in public — follow along here. ✊
 
 ## 🧰 Tech Stack
 ---
@@ -103,105 +98,6 @@
 
 ---
 
-
----
-#Projects
-
-
-## 🧠 AI / Automation / Agents
-
-### 🤖 `arch.diy`
-*Set of 20+ autonomous AI agents for the AEC industry.*
-- **Type**: AI Agents, Automation
-- **Tech Stack**: OpenAI, Claude, LangChain, Supabase, GPT-4, Firebase Functions
-- **Use Case**: Automates architectural processes — approvals, design checks, cost estimation
-
-### 🏗️ `boq.bots`
-*AI-powered BOQ builder using international construction standards.*
-- **Type**: Electron App, Claude AI Agents
-- **Tech Stack**: Claude AI, Electron, React, L10N & i18n frameworks
-- **Use Case**: Automatically generates Bills of Quantity using global datasets
-
----
-
-## 🏛️ Architecture + Design Platforms
-
-### 🏛️ `archfol.io`
-*Whitelabeled portfolio builder for architects & designers.*
-- **Type**: SaaS, Builder Tool
-- **Tech Stack**: Next.js, Supabase, TailwindCSS, Domain Management API
-- **Use Case**: Lets professionals build custom portfolio sites with subdomains or custom domains
-
-### 🛍️ `arqihive`
-*Marketplace for architectural digital assets.*
-- **Type**: Multi-vendor Marketplace
-- **Tech Stack**: React, Supabase, Cloudinary, Stripe, 3D Viewer SDKs
-- **Use Case**: Buy and sell architecture CAD files, models, and templates
-
-### 🌍 `inheritage.foundation`
-*Pro bono digital archive for heritage architecture.*
-- **Type**: NGO Project
-- **Tech Stack**: WebGL, CesiumJS, PointCloud SDK, Supabase
-- **Use Case**: Hosts India's most advanced 100bn point cloud render of heritage sites
-
----
-
-## 🕸️ Web3 / Dapps / DeFi
-
-### 📈 `sindex`, `bindex`, `mindex`
-*“S&P 500” for memes, tracking 500+ tokens.*
-- **Type**: Index Platform
-- **Tech Stack**: Solana, EVM, Chart.js, Next.js, Firebase
-- **Use Case**: Real-time index of meme tokens across Solana and Binance
-
-### 🤖 `g8k3p8`
-*Democratized trading bots marketplace.*
-- **Type**: On-chain Bot Marketplace
-- **Tech Stack**: Solana, Anchor, Metaplex, Next.js, Firebase
-- **Use Case**: Buy/sell pre-built bots with verified track records
-
-### 🧑‍💻 `w3gig`
-*Fully-featured verified on-chain freelancer marketplace.*
-- **Type**: Web3 Work Platform
-- **Tech Stack**: Solana, Ceramic, Wallet Adapter, Supabase
-- **Use Case**: Hire and get hired with on-chain credentials
-
-### 🏦 `zeta citadel`
-*Retail access to automated hedge fund + SIPs.*
-- **Type**: DeFi Protocol
-- **Tech Stack**: Solana, Pyth Oracle, Serum
-- **Use Case**: Automates treasury rebalancing, SIP creation on-chain
-
-### 🔮 `solymarkets`
-*On-chain prediction markets on Solana.*
-- **Type**: Dapp
-- **Tech Stack**: Solana, Switchboard, Anchor
-- **Use Case**: Make binary and probabilistic bets via smart contracts
-
-### 🧩 `dappquired`
-*Web3 version of Acquired.com + marketplace to acquire dapps.*
-- **Type**: Media + Marketplace
-- **Tech Stack**: Supabase, EVM, Token Gating, Blockchain Analytics
-- **Use Case**: Buy/sell dapps with verified on-chain metrics + founder storytelling
-
----
-
-## 📦 DevTools / BaaS / Infra
-
-### 🚢 `shippr`
-*A Dev.to clone + writing platform.*
-- **Type**: Blogging Platform
-- **Tech Stack**: Next.js, Supabase, MDX, ShadCN
-- **Use Case**: Share engineering blogs, dev diaries, and launch updates
-
-### 🧠 `wryteum`
-*Web3 Notion alternative using BNB Greenfield.*
-- **Type**: Knowledge Base
-- **Tech Stack**: React, BNB Greenfield SDK, EVM Auth
-- **Use Case**: Write docs, thoughts, roadmaps on decentralized infra
-
----
-
 ## 🧠 Current Interests
 
 - **Zero-knowledge** tooling & real-time L2 UX
@@ -240,25 +136,13 @@
 ```js
 Email: ayush@0xmilord.xyz  
 Telegram: @ayushbuilt  
-X / Twitter: @0xmilord
+X / Twitter: @0xmilords
 ```
 
 ---
 
-## 🗂 My Links
-
-- 🌐 [All projects](https://0xmilord.site)  
-- ✍️ [Blog (soon)](https://paragraph.xyz/@milord)  
-- 📝 [Resume](#) available on request  
-- 🔐 [GitHub](https://github.com/0xmilord)
-
----
 
 ## 🤪 Fun Fact
 
 I wanted to be an architect. Ended up building the future of the web on nights and weekends. 🏗️🧑‍💻  
 
----
-
-> ⚡ *"Not a tech whiz. Not an architect legend. Just a guy stuck between two worlds—trying to break out of both."*
-```
